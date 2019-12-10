@@ -10,3 +10,7 @@ Startup instructions:
 4. Open your brouser and go to:
   - to XML: "localhost:3000/to_xml.html"
   - from XML: "localhost:3000/from_xml.html"
+
+Input format:
+  - to XML: tag=value
+  - from XML: <tag>value</tag>
