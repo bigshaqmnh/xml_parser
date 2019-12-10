@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.input-group {
+    height: 70vh;
+}
+
+.input-group-prepend {
+    width: 15%;
+}
+
+.input-group-prepend span {
+    width: 100%;
+}
+
+.input-group-append {
+    width: 15%;
+}
+
+.input-group-append button {
+    width: 100%;
+}
